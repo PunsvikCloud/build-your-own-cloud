@@ -1,0 +1,21 @@
+# Downloaded content
+
+# Built content
+**/bin
+**/obj
+**/dist
+# User files
+.vscode
+.idea
+# Temp files
+
+# Secrets
+
+# Non production files
+appsettings.*.json
+**/launchSettings.json
+k8s.yaml
+**/.dockerignore
+**/.git
+**/.gitignore
+README.md
