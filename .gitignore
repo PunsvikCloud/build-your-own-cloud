@@ -1,0 +1,11 @@
+# Downloaded content
+
+# Built content
+bin
+obj
+# User files
+.vscode
+.idea
+# Temp files
+
+# Secrets
